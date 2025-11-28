@@ -28,6 +28,14 @@ body {
     background-color: #586B5D;
 }
 
+.marl-1 {
+    margin-left:10%
+}
+
+.marr-1 {
+    margin-right:10%
+}
+
 .text-1 {
   color: #253031ff;
 }
@@ -56,7 +64,7 @@ $english-violet: #403d58ff; */
 
 @media screen and (min-width: 1080px) {
     .content-text {
-        width: 50%;
+        width: 80%;
     }
 
     .content-image {
